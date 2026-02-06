@@ -1,11 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer utilities {
-  .text-primary { color: #1E3A8A; }
-  .bg-primary { background-color: #1E3A8A; }
-  .bg-primary-hover { background-color: #1B365E; }
-  .bg-footer { background-color: #1F1F1F; }
-  .mx-side { margin-left: 10%; margin-right: 10%; }
-}
+@import "tailwindcss";
